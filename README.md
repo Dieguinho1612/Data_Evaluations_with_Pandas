@@ -1,6 +1,6 @@
 # Evaluating Data with Pandas
 
-In this repository there are some evaluations of given data with the package Pandas from Python 3. Naturally, dummy data is used as illustration. Moreover, the code was uploaded to this repository with the agreement of the respective companies that it was created for.
+This repository contains evaluations of provided data, conducted using the Python 3 package Pandas for clients. The code used for the evaluations was uploaded to this repository with the permission of the respective client for whom it was created. It should be noted that dummy data was used for illustration purposes. 
 
 ## BASF: Deciding between contract options with Deutsche Bahn
 
