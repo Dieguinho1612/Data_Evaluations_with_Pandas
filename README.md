@@ -6,7 +6,7 @@ In this repository there are some evluations of given data with the package Pand
 
 Here, the task was to decide between different options of contracts that the client BASF could do with the German train company Deutsche Bahn. The client had several information about the 20 most frequent travel routes of its employees in the past year and the prices for each of these travel routes for every possible type of contract.<br>
 
-I performed an in-depth analysis on this data to give a mathematical recommendation of which contract to use. For this, I created a notebook. It has a simple instruction immanent. Therefore, the client can reuse it to his liking, should he want to reassess different contract options in the future or should the usage of the travel routes change. He only has to state the file name of the data set that should be evaluated and the rest of the task completes automatically within seconds.<br>
+I performed an in-depth analysis on this data to give a mathematical recommendation of which contract to use. For this, I created a notebook. It has a simple instruction immanent. Therefore, the client can reuse it to his liking, should he want to reassess different contract options in the future or should the usage of the travel routes change. He only has to state the file name of the data set that should be evaluated. The notebook then completes the rest of the task automatically within seconds.<br>
 
 An assessment of my work by BASF is appended.
 
